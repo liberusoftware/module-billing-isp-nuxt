@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-isp-nuxt",
+  "capabilityKey": "liberusoftware/module-billing-isp",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-billing-isp-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/billing/nextjs/isp.md",
+  "presentationPlan": "projects/billing/nuxt/isp.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
